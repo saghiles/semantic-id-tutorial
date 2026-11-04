@@ -1,3 +1,4 @@
 saved_models/SASRec/2026-10-01_22-20-31-731623.pkl filter=lfs diff=lfs merge=lfs -text
 saved_models/TIGER/2026-10-01_22-20-31-781458.pkl filter=lfs diff=lfs merge=lfs -text
 item_features/amazon_beauty.npz filter=lfs diff=lfs merge=lfs -text
+item_features/amazon_beauty_skincare.npz filter=lfs diff=lfs merge=lfs -text
